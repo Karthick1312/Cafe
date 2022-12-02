@@ -20,7 +20,7 @@ In order to make this effortless for the user and clients, there are a few thing
 <li>Ask every time: Every time you open the app, it'll ask to use the permission. It can use the permission until you’re done with the app.</li>
 <li>Don't allow: The app cannot use the setting, even when you’re using the app. </li></ul>
 <img src="https://user-images.githubusercontent.com/99883707/199276928-d37f3354-9863-48dc-8b93-9b227f699c47.png" alt="sign up" width="400" height="600"/>
-<p></p>
+<p>This is your sign-up activity. It has two EditTexts, a TextView, a Button and a Progress Bar. All these views are contained in a Linear Layout with vertical orientation. EditTexts are used to get email and password from the user. Button is used for signup purpose after filling username and password.</p>
 <img src="https://user-images.githubusercontent.com/99883707/199280993-d77fe01e-da88-430a-b896-1a8b10532a73.png" alt="verfication page" width="400" height="600"/>
 <p></p>
 <img src="https://user-images.githubusercontent.com/99883707/199281212-160c77cd-f64a-4202-b76a-71be5c33ef99.png" alt="without sigin page" width="400" height="600"/>
